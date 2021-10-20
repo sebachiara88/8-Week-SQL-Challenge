@@ -14,6 +14,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/138149756-131b5a83-9cfa-4bcc-9fc9-7f3b9230a921.png)
 
+### 5) Which item was the most popular for each customer?
+
+![image](https://user-images.githubusercontent.com/72626506/138180646-0efbf4ab-f944-45b5-acf1-746f44cf6293.png)
+
+
 
 
 
