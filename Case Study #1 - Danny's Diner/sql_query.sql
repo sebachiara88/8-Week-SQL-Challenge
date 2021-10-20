@@ -61,3 +61,10 @@ VALUES
  JOIN MENU M ON 
  S.PRODUCT_ID = M.PRODUCT_ID
  GROUP BY  S.CUSTOMER_ID;
+ 
+ --2) How many days has each customer visited the restaurant?
+SELECT
+	CUSTOMER_ID AS Customers,
+	COUNT(DISTINCT ORDER_DATE) AS Visitation_Number
+FROM SALES
+GROUP BY  CUSTOMER_ID;
