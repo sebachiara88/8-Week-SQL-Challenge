@@ -8,7 +8,9 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Entity Relationship Diagram
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/72626506/137977389-b5f659d5-82cf-4199-b4f2-e113503fce2d.png)
+</p>
 
 ## Case Study Questions
 
