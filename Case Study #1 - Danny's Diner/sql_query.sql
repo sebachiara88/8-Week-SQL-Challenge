@@ -86,3 +86,14 @@ SELECT
 	PRODUCT_NAME
 FROM CTE_TABLE
 WHERE ROWNUM = 1
+
+-- 4) What is the most purchased item on the menu and how many times was it purchased by all customers?
+
+SELECT
+	M.PRODUCT_NAME,
+	COUNT(S.PRODUCT_ID) AS TIME_PURCHASED
+FROM MENU M
+JOIN SALES S
+ON S.PRODUCT_ID = M.PRODUCT_ID
+GROUP BY PRODUCT_NAME
+ORDER BY TIME_PURCHASED DESC
