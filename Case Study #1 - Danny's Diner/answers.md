@@ -10,5 +10,10 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/138131789-f40b7e62-06df-4d77-b52e-40d7c2d867b7.png)
 
+### 4) What is the most purchased item on the menu and how many times was it purchased by all customers?
+
+![image](https://user-images.githubusercontent.com/72626506/138149756-131b5a83-9cfa-4bcc-9fc9-7f3b9230a921.png)
+
+
 
 
