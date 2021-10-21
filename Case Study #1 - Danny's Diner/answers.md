@@ -26,6 +26,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/138317258-28c6924d-66f8-4a5d-8179-095e22b17d67.png)
 
+### 8) What is the total items and amount spent for each member before they became a member?
+
+![image](https://user-images.githubusercontent.com/72626506/138346577-7e61587c-e803-4843-89cc-65ae6b4f5781.png)
+
+
 
 
 
