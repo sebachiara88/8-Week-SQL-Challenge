@@ -30,6 +30,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/138346577-7e61587c-e803-4843-89cc-65ae6b4f5781.png)
 
+### 9)If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+
+![image](https://user-images.githubusercontent.com/72626506/138355025-771e956b-7917-4a57-b188-431f20bb7697.png)
+
+
 
 
 
