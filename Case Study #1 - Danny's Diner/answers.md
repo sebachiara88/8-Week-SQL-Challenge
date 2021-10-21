@@ -18,6 +18,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/138182702-f6a8a3e3-1450-4eb1-93fc-b5fc59001634.png)
 
+### 6) Which item was purchased first by the customer after they became a member?
+
+![image](https://user-images.githubusercontent.com/72626506/138284427-30a0a9eb-dc20-4718-b708-904a73a0f2b1.png)
+
+
 
 
 
