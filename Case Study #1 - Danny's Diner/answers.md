@@ -22,6 +22,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/138284427-30a0a9eb-dc20-4718-b708-904a73a0f2b1.png)
 
+### 7) Which item was purchased just before the customer became a member?
+
+![image](https://user-images.githubusercontent.com/72626506/138317258-28c6924d-66f8-4a5d-8179-095e22b17d67.png)
+
+
 
 
 
