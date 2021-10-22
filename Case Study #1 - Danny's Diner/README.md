@@ -4,11 +4,15 @@ Danny seriously loves Japanese food so in the beginning of 2021, he decides to e
 
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
-![image](https://user-images.githubusercontent.com/72626506/137976410-3270cce0-9411-44af-8e60-30eec308562b.png)
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/72626506/137976410-3270cce0-9411-44af-8e60-30eec308562b.png>
+</p>
 
 ## Entity Relationship Diagram
-
-![image](https://user-images.githubusercontent.com/72626506/137977389-b5f659d5-82cf-4199-b4f2-e113503fce2d.png)
+  
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/72626506/137977389-b5f659d5-82cf-4199-b4f2-e113503fce2d.png>
+</p>
 
 ## Case Study Questions
 
