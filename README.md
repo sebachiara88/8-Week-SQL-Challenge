@@ -6,7 +6,8 @@ A series of SQL case studies where I perform data cleaning, data transformation 
   <img src=https://user-images.githubusercontent.com/72626506/137976082-3de2b3c8-3931-4510-a5c6-e022f42b60a7.png>
 </p>
 
-Skills used: SELECT, FROM, SUBQUERY, CTE, WINDOW FUNCTIONS (ROW_NUMBER, RANK, DENSE_RANK, PARTITION BY), GROUP BY, ORDER BY, COUNT, DISTINCT, SUM, MIN, MAX
+Skills used: 
+- SELECT, FROM, SUBQUERY, CTE, WINDOW FUNCTIONS (ROW_NUMBER, RANK, DENSE_RANK, PARTITION BY), GROUP BY, ORDER BY, COUNT, DISTINCT, SUM, MIN, MAX
 
 [ Case Study #1 - Danny's Diner](https://github.com/sebachiara88/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) 🍣
 
