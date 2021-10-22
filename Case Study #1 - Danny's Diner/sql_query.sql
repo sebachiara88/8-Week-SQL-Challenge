@@ -194,3 +194,19 @@ FROM SALES S
 JOIN MENU M 
 ON S.PRODUCT_ID = M.PRODUCT_ID) SQ
 GROUP BY CUSTOMER_ID;
+
+
+-- 10) In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+
+SELECT SQ.CUSTOMER_ID, SUM(SQ.POINTS) AS TOTAL_SCORE
+FROM
+(SELECT
+	S.CUSTOMER_ID,
+	ME.PRICE * 20 AS POINTS
+FROM SALES S
+JOIN MENU ME
+ON S.PRODUCT_ID = ME.PRODUCT_ID
+JOIN MEMBERS MB
+ON S.CUSTOMER_ID = MB.CUSTOMER_ID
+WHERE ORDER_DATE BETWEEN '2021-01-01' AND '2021-01-31') SQ
+GROUP BY CUSTOMER_ID;
