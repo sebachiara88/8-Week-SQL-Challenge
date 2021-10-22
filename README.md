@@ -1,6 +1,6 @@
 # [8 Week SQL Challenge](https://8weeksqlchallenge.com/getting-started/)
 
-A series of SQL case studies where I perform data cleaning, data transformation and solve business questions using SQL
+A series of SQL case studies where I perform data cleaning, data transformation and solve business questions using Microsoft SQL Server Management Studio 2018
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/72626506/137976082-3de2b3c8-3931-4510-a5c6-e022f42b60a7.png>
