@@ -13,5 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/139693747-2711e800-28da-4b4f-87b9-5f5de4e00658.png)
 
+### How many of each type of pizza was delivered?
+
+![image](https://user-images.githubusercontent.com/72626506/139701749-d446817d-633b-451c-bcd5-008d48356ec9.png)
+
+
 
 
