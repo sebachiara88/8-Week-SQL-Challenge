@@ -17,6 +17,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/139701749-d446817d-633b-451c-bcd5-008d48356ec9.png)
 
+### How many Vegetarian and Meatlovers were ordered by each customer?
+
+![image](https://user-images.githubusercontent.com/72626506/139714364-a6054240-036b-4976-9d9d-555ad8883ef7.png)
+
+
 
 
 
