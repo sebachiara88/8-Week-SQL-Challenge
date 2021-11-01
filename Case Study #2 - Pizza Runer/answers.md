@@ -12,4 +12,9 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/139691753-8f38d73f-a7ce-4cb5-baa0-af7e798f6d31.png)
 
+### How many successful orders were delivered by each runner?
+
+![image](https://user-images.githubusercontent.com/72626506/139693747-2711e800-28da-4b4f-87b9-5f5de4e00658.png)
+
+
 
