@@ -31,5 +31,8 @@
 ![image](https://user-images.githubusercontent.com/72626506/139873964-e8f64e53-1f93-45cf-b94e-45a328b88eef.png)
 
 
+### How many pizzas were delivered that had both exclusions and extras?
+
+![image](https://user-images.githubusercontent.com/72626506/139878157-c752a474-3bf6-46fe-acc4-1cf41fe1300b.png)
 
 
