@@ -26,6 +26,9 @@
 ![image](https://user-images.githubusercontent.com/72626506/139729053-6cf111e3-2efa-48a0-9374-150a97e7ab52.png)
 
 
+### For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
+
+![image](https://user-images.githubusercontent.com/72626506/139873964-e8f64e53-1f93-45cf-b94e-45a328b88eef.png)
 
 
 
