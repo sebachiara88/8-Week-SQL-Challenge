@@ -41,4 +41,10 @@
 ![image](https://user-images.githubusercontent.com/72626506/139911249-95665c4a-f1a5-4b28-82ef-58b234f30fa7.png)
 
 
+### What was the volume of orders for each day of the week?
+
+![image](https://user-images.githubusercontent.com/72626506/139912262-b2268e18-54b4-4ab4-9b2d-a8b5608cc8ae.png)
+
+
+
 
