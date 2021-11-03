@@ -16,6 +16,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/140169393-ff6bf010-0ec4-4102-9277-dc401ff95169.png)
 
+### What is the successful delivery percentage for each runner?
+
+![image](https://user-images.githubusercontent.com/72626506/140176285-cc27d863-d082-4e57-ba11-ca16a4de83df.png)
+
+
 
 
 
