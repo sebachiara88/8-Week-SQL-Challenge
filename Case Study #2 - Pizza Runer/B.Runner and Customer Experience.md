@@ -12,3 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/140089667-59039eac-6d2e-4ede-911f-d3b510e69f67.png)
 
+### What was the total volume of pizzas ordered for each hour of the day?
+
+![image](https://user-images.githubusercontent.com/72626506/140166653-dce49fef-2482-4eeb-8d7c-488e212b7682.png)
+
+
