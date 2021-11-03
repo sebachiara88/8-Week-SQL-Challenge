@@ -46,10 +46,6 @@
 ![image](https://user-images.githubusercontent.com/72626506/139912262-b2268e18-54b4-4ab4-9b2d-a8b5608cc8ae.png)
 
 
-### What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
-
-![image](https://user-images.githubusercontent.com/72626506/140086675-103e1bd8-c6d7-45d4-a459-6b10bcbf3eea.png)
-
 
 
 
