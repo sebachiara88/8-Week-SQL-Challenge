@@ -7,3 +7,8 @@
 ### What was the average time in minutes it took for each runner to arrive at the Pizza Runner HQ to pickup the order?
 
 ![image](https://user-images.githubusercontent.com/72626506/140086675-103e1bd8-c6d7-45d4-a459-6b10bcbf3eea.png)
+
+### What was the average distance travelled for each customer?
+
+![image](https://user-images.githubusercontent.com/72626506/140089667-59039eac-6d2e-4ede-911f-d3b510e69f67.png)
+
