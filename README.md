@@ -11,7 +11,7 @@ Skills used:
 - FROM
 - SUBQUERY
 - CTE
-- WINDOW FUNCTIONS (ROW_NUMBER, RANK, DENSE_RANK, PARTITION BY)
+- WINDOW FUNCTIONS (ROW_NUMBER, RANK, DENSE_RANK, AGGREGATE, PARTITION BY)
 - GROUP BY
 - ORDER BY
 - COUNT
@@ -19,6 +19,11 @@ Skills used:
 - SUM
 - MIN
 - MAX
+- AVG
+- WHERE
+- HAVING
+- DATE FUNCTIONS (DATEADD, DATEDIFF)
+- CAST
 
 [ Case Study #1 - Danny's Diner](https://github.com/sebachiara88/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) 🍣
 
