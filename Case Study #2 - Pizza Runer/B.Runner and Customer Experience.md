@@ -12,6 +12,11 @@
 
 ![image](https://user-images.githubusercontent.com/72626506/140089667-59039eac-6d2e-4ede-911f-d3b510e69f67.png)
 
+### What was the difference between the longest and shortest delivery times for all orders?
+
+![image](https://user-images.githubusercontent.com/72626506/140169393-ff6bf010-0ec4-4102-9277-dc401ff95169.png)
+
+
 
 
 
